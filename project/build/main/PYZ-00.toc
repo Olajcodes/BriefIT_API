@@ -435,6 +435,7 @@
   ('_aix_support', 'C:\\Python_Files\\Lib\\_aix_support.py', 'PYMODULE'),
   ('_compat_pickle', 'C:\\Python_Files\\Lib\\_compat_pickle.py', 'PYMODULE'),
   ('_compression', 'C:\\Python_Files\\Lib\\_compression.py', 'PYMODULE'),
+  ('_markupbase', 'C:\\Python_Files\\Lib\\_markupbase.py', 'PYMODULE'),
   ('_py_abc', 'C:\\Python_Files\\Lib\\_py_abc.py', 'PYMODULE'),
   ('_pydatetime', 'C:\\Python_Files\\Lib\\_pydatetime.py', 'PYMODULE'),
   ('_pydecimal', 'C:\\Python_Files\\Lib\\_pydecimal.py', 'PYMODULE'),
@@ -543,6 +544,42 @@
   ('base64', 'C:\\Python_Files\\Lib\\base64.py', 'PYMODULE'),
   ('bdb', 'C:\\Python_Files\\Lib\\bdb.py', 'PYMODULE'),
   ('bisect', 'C:\\Python_Files\\Lib\\bisect.py', 'PYMODULE'),
+  ('bs4',
+   'C:\\Users\\Welcome '
+   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\bs4\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder',
+   'C:\\Users\\Welcome '
+   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\bs4\\builder\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._html5lib',
+   'C:\\Users\\Welcome '
+   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\bs4\\builder\\_html5lib.py',
+   'PYMODULE'),
+  ('bs4.builder._htmlparser',
+   'C:\\Users\\Welcome '
+   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\bs4\\builder\\_htmlparser.py',
+   'PYMODULE'),
+  ('bs4.builder._lxml',
+   'C:\\Users\\Welcome '
+   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\bs4\\builder\\_lxml.py',
+   'PYMODULE'),
+  ('bs4.css',
+   'C:\\Users\\Welcome '
+   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\bs4\\css.py',
+   'PYMODULE'),
+  ('bs4.dammit',
+   'C:\\Users\\Welcome '
+   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\bs4\\dammit.py',
+   'PYMODULE'),
+  ('bs4.element',
+   'C:\\Users\\Welcome '
+   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\bs4\\element.py',
+   'PYMODULE'),
+  ('bs4.formatter',
+   'C:\\Users\\Welcome '
+   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\bs4\\formatter.py',
+   'PYMODULE'),
   ('bz2', 'C:\\Python_Files\\Lib\\bz2.py', 'PYMODULE'),
   ('cachetools',
    'C:\\Users\\Welcome '
@@ -1016,26 +1053,6 @@
   ('docx.types',
    'C:\\Users\\Welcome '
    'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\docx\\types.py',
-   'PYMODULE'),
-  ('dotenv',
-   'C:\\Users\\Welcome '
-   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\dotenv\\__init__.py',
-   'PYMODULE'),
-  ('dotenv.ipython',
-   'C:\\Users\\Welcome '
-   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\dotenv\\ipython.py',
-   'PYMODULE'),
-  ('dotenv.main',
-   'C:\\Users\\Welcome '
-   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\dotenv\\main.py',
-   'PYMODULE'),
-  ('dotenv.parser',
-   'C:\\Users\\Welcome '
-   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\dotenv\\parser.py',
-   'PYMODULE'),
-  ('dotenv.variables',
-   'C:\\Users\\Welcome '
-   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\dotenv\\variables.py',
    'PYMODULE'),
   ('email', 'C:\\Python_Files\\Lib\\email\\__init__.py', 'PYMODULE'),
   ('email._encoded_words',
@@ -2351,6 +2368,7 @@
   ('hmac', 'C:\\Python_Files\\Lib\\hmac.py', 'PYMODULE'),
   ('html', 'C:\\Python_Files\\Lib\\html\\__init__.py', 'PYMODULE'),
   ('html.entities', 'C:\\Python_Files\\Lib\\html\\entities.py', 'PYMODULE'),
+  ('html.parser', 'C:\\Python_Files\\Lib\\html\\parser.py', 'PYMODULE'),
   ('http', 'C:\\Python_Files\\Lib\\http\\__init__.py', 'PYMODULE'),
   ('http.client', 'C:\\Python_Files\\Lib\\http\\client.py', 'PYMODULE'),
   ('http.cookiejar', 'C:\\Python_Files\\Lib\\http\\cookiejar.py', 'PYMODULE'),
@@ -3462,6 +3480,34 @@
   ('signal', 'C:\\Python_Files\\Lib\\signal.py', 'PYMODULE'),
   ('socket', 'C:\\Python_Files\\Lib\\socket.py', 'PYMODULE'),
   ('socketserver', 'C:\\Python_Files\\Lib\\socketserver.py', 'PYMODULE'),
+  ('soupsieve',
+   'C:\\Users\\Welcome '
+   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\soupsieve\\__init__.py',
+   'PYMODULE'),
+  ('soupsieve.__meta__',
+   'C:\\Users\\Welcome '
+   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\soupsieve\\__meta__.py',
+   'PYMODULE'),
+  ('soupsieve.css_match',
+   'C:\\Users\\Welcome '
+   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\soupsieve\\css_match.py',
+   'PYMODULE'),
+  ('soupsieve.css_parser',
+   'C:\\Users\\Welcome '
+   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\soupsieve\\css_parser.py',
+   'PYMODULE'),
+  ('soupsieve.css_types',
+   'C:\\Users\\Welcome '
+   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\soupsieve\\css_types.py',
+   'PYMODULE'),
+  ('soupsieve.pretty',
+   'C:\\Users\\Welcome '
+   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\soupsieve\\pretty.py',
+   'PYMODULE'),
+  ('soupsieve.util',
+   'C:\\Users\\Welcome '
+   'Sir\\Desktop\\New_API\\BriefITenv\\Lib\\site-packages\\soupsieve\\util.py',
+   'PYMODULE'),
   ('ssl', 'C:\\Python_Files\\Lib\\ssl.py', 'PYMODULE'),
   ('statistics', 'C:\\Python_Files\\Lib\\statistics.py', 'PYMODULE'),
   ('string', 'C:\\Python_Files\\Lib\\string.py', 'PYMODULE'),
